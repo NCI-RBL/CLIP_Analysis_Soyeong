@@ -1,0 +1,15 @@
+source	contents	Description	Annotation_file
+yRNA	Repeatmasker	HY1, HY4, HY3, HY5		yRNA.bed
+snRNA	Gencode_VM23	U1,U2,U5,U6,U7,U11,U12 and various predicted genes	small nuclear RNA : Small RNA molecules that are found in the cell nucleus and are involved in the processing of pre messenger RNAs	snRNA.bed
+snoRNA	Gencode_VM23	Various snoRNA	Small nucleolar RNAs : Small RNA molecules that are found in the cell nucleolus and are involved in the post-transcriptional modification of other RNAs	snoRNA.bed
+srpRNA	Repeatmasker	7SLRNA	signal recognition particle RNA	srpRNA.bed
+tRNA	GtRNAdb	tRNA	transfer RNA, which acts as an adaptor molecule for translation of mRNA.	tRNA.bed
+7SK RNA	Repeatmakser	7SK	subset of small nuclear RNA and part of the small nuclear ribonucleoprotein complex (snRNP)	SKRNA.bed
+scRNA	Repeatmakser	BC1_Mm, 4.5SRNA	Small cytoplasmic RNA	scRNA.bed
+sncRNA		3 annotations: "Rmrp", "Rpph1", "Vaultrc5"	small non-coading RNA	sncRNA.bed
+miRNA	Gencode_VM23	miRNA	Micro RNA : A small RNA (~22bp) that silences the expression of target mRNA	miRNA.bed
+rRNA_gencode	Gencode_VM23	5S, 5.8s, predicted gene	Ribosomal RNA	rRNA_gencode.bed
+rRNA_rmsk	Repeatmasker	5S, LSU-rRNA_Hsa, SSU-rRNA_Hsa	Ribosomal RNA	rRNA_rmsk.bed
+rRNA_DNA	BK000964.3	45S, 5ETS, ITS1, ITS2, 3ETS, 18S, 5.8S, 28S, IGS, TermrRNA, repeat_RI-1, repeat_RII-1, APS1_X52413_1, APS1_X52413_2, Block_1, repeat_RI-2, repeat_RII-2, APS1_X52413_3, APS2_X52412_1, Block_2, repeat_RI-3, repeat_RII-3, APS1_X52413_4, repeat_RII-4, APS2_52412_2, Sal_box_1, Sal_box_2, Sal_box_3, Sal_box_4, Sal_box_5, Sal_box_6, Sal_box_7, Sal_box_8, Sal_box_9, spacer_promoter_X06186, enhancer_V00847, Sal_box_0, promoter_M18062, UPE, core_rRNA_promoter	Ribosomal DNA	rRNA_BK00964.bed
+lncRNA	Gencode_VM23	Various lncRNA	Generic long non-coding RNA biotype	lincRNA.bed
+lincRNA	NA	Various lincRNA	long non-coding RNA biotype with Intronic + Exonic Regions	NA

@@ -1,0 +1,29 @@
+SY_count	Gencode	Repeatmasker	Comb	contents	source	Description	notes	Annotation_file
+45S	NA	NA	NA	NA	NA	NA	NA	NA	NA
+chrM	NA	NA	NA	NA	NA	NA	NA	NA	NA
+yRNA	57	NA	57	NA	HY1, HY4, HY3, HY5	Repeatmasker		use Repeatmasker - subset of scRNA	yRNA.bed
+snRNA	1384	1383	3007	4390	U1,U2,U5,U6,U7,U11,U12 and various predicted genes	Gencode_VM23	small nuclear RNA : Small RNA molecules that are found in the cell nucleus and are involved in the processing of pre messenger RNAs	Use Gencode	snRNA.bed
+snoRNA	1508	1507	NA	NA	Various snoRNA	Gencode_VM23	Small nucleolar RNAs : Small RNA molecules that are found in the cell nucleolus and are involved in the post-transcriptional modification of other RNAs	Use Gencode	snoRNA.bed
+srpRNA	437	NA	437	NA	7SLRNA	Repeatmasker	signal recognition particle RNA	Use Repeatmasker - can be (7SL, 6S, or 4.5S RNA) 4.5S is coveredin scRNA	srpRNA.bed
+tRNA	4769	NA	6387	NA	tRNA	GtRNAdb	transfer RNA, which acts as an adaptor molecule for translation of mRNA.	use Soyeong	tRNA.bed
+7SK RNA	691	NA	691	NA	7SK	Repeatmakser	subset of small nuclear RNA and part of the small nuclear ribonucleoprotein complex (snRNP)	Use Repeatmakser	SKRNA.bed
+scRNA	8332	1	8275	8276	BC1_Mm, 4.5SRNA	Repeatmakser	Small cytoplasmic RNA	use Repeatmakser - removed yRNA	scRNA.bed
+sncRNA	3	NA	NA	NA	3 annotations: "Rmrp", "Rpph1", "Vaultrc5"		small non-coading RNA	use Soyeong	sncRNA.bed
+miRNA	2207	2202	120436	122638	miRNA	Gencode_VM23	Micro RNA : A small RNA (~22bp) that silences the expression of target mRNA	use Gencode	miRNA.bed
+rRNA_gencode	NA	353	NA	NA	5S, 5.8s, predicted gene	Gencode_VM23	Ribosomal RNA	NA	rRNA_gencode.bed
+rRNA_rmsk	NA	NA	1564	NA	5S, LSU-rRNA_Hsa, SSU-rRNA_Hsa	Repeatmasker	Ribosomal RNA	NA	rRNA_rmsk.bed
+rRNA_DNA	NA	NA	NA	NA	45S, 5ETS, ITS1, ITS2, 3ETS, 18S, 5.8S, 28S, IGS, TermrRNA, repeat_RI-1, repeat_RII-1, APS1_X52413_1, APS1_X52413_2, Block_1, repeat_RI-2, repeat_RII-2, APS1_X52413_3, APS2_X52412_1, Block_2, repeat_RI-3, repeat_RII-3, APS1_X52413_4, repeat_RII-4, APS2_52412_2, Sal_box_1, Sal_box_2, Sal_box_3, Sal_box_4, Sal_box_5, Sal_box_6, Sal_box_7, Sal_box_8, Sal_box_9, spacer_promoter_X06186, enhancer_V00847, Sal_box_0, promoter_M18062, UPE, core_rRNA_promoter	BK000964.3	Ribosomal DNA	NA	rRNA_BK00964.bed
+lncRNA	NA	12511	NA	NA	Various lncRNA	Gencode_VM23	Generic long non-coding RNA biotype	Gencode	lincRNA.bed
+lincRNA	NA	NA	NA	NA	Various lincRNA	NA	long non-coding RNA biotype with Intronic + Exonic Regions	older versions of Gencode use linc	NA
+mRNA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LINE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+SINE	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LTR	972593	NA	972593	NA	NA	NA	NA	NA	NA
+DNA	163077	NA	163077	NA	NA	NA	NA	NA	NA
+Satalites	36869	NA	36869	NA	NA	NA	NA	NA	NA
+Simple Repeats	1015643	NA	1015643	NA	NA	NA	NA	NA	NA
+Low Complexity	386539	NA	386539	NA	NA	NA	NA	NA	NA
+Other repeats	19450	NA	19450	NA	NA	NA	NA	NA	NA
+Unknown repeats	9660	NA	9660	NA	NA	NA	NA	NA	NA
+Introns	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rRNA	1920	NA	NA	NA	NA	NA	NA	Use Gencode + Repeatmasker	NA
