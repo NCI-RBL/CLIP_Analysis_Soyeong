@@ -37,6 +37,53 @@ cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random12/Exons/all/Transcriptomi
 Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 100 .2 .9 138 16 12 Exons Transcriptomic all
 
 
+### Genomic Intron
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random1/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 1 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random2/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 2 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random3/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 3 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random4/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 4 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random5/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 5 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random6/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 6 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random7/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 7 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random8/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 8 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random9/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 9 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random10/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 10 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random11/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 11 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random12/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 12 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random13/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 12 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random14/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 12 Introns Genomic all
+
+cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random15/Introns/all/Genomic
+Rscript /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/RandomExon_chunk_V2.R 100 75 .2 .9 421 16 12 Introns Genomic all
+
 ### Genomic Exon
 
 cd /data/RBL_NCI/Wolin/Phil/mESC_clip/structure/Random1/Exons/all/Genomic
