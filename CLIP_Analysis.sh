@@ -21,10 +21,12 @@ cd ${BASE_DIR}
 
 CLIPtype='Exons'       #Introns or #Exons #Introns_LINESINETLR
 RunMode='Transcriptomic'      #Genomic or Transcriptomic
-TrasncLoc='all'        # all, 3UTR, 5UTR, exons_CDS, introns
+TrasncLoc='all'        # all, 3UTR, exons_CDS, introns
+spceicies
 
-SampleName: /NovoAlign_umi/All/recomb_NHtag/Peaks_postUniq_postMM_inc45S/Ro_Clip_iCountcutadpt_all.unique.NH.mm.ddup.s.unique.bam.peaks.bedtools.bed
-        ## Give absolute path
+outdir: /data/RBL_NCI/Wolin/Phil/mESC_CLIP2/structure/
+SampleName: Ro
+        
 
 ##### Nucleotide window Upstream + and downstream of 5’ CLIP peak
 window=100
