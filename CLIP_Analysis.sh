@@ -22,7 +22,7 @@ cd ${BASE_DIR}
 CLIPtype='Exons'       #Introns or #Exons #Introns_LINESINETLR
 RunMode='Transcriptomic'      #Genomic or Transcriptomic
 TrasncLoc='all'        # all, 3UTR, exons_CDS, introns
-spceicies
+spceicies= 'mm10' #mm10 or hg38
 
 outdir: /data/RBL_NCI/Wolin/Phil/mESC_CLIP2/structure/
 SampleName: Ro
